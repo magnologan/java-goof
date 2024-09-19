@@ -10,4 +10,4 @@ It's divided into modules, each one having its own README:
 
 Arquivo alterado por Magno!
 
-Testando code owners!!
+Testando branch hotfix!
